@@ -1,4 +1,4 @@
 product v1
 product v2
-product v7
-product v8
+product v5
+product v6
